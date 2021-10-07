@@ -1,3 +1,3 @@
 <?php
-echo 'salom';
+echo '123456';
 ?>
